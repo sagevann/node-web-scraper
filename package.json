@@ -7,6 +7,8 @@
   "dependencies" : {
     "express"    : "latest",
     "request"    : "latest",
-    "cheerio"    : "latest"
+    "cheerio"    : "latest",
+    "html-md"    : "latest",
+    "node-curl"  : "latest"
   }
 }
